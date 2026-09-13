@@ -19,7 +19,7 @@ O projeto foi construído utilizando **Java puro**, focando nos fundamentos da l
 * **Estruturas de dados dinâmicas:** Substituição de vetores clássicos (`Arrays`) pelo *Java Collections Framework* (`ArrayList`), permitindo dimensionamento automático da base de dados em memória.
 * **Tratamento de exceções e resiliência:** Implementação de blocos `try-catch` globais no fluxo da aplicação. Exceções customizadas (`IllegalArgumentException`) protegem o sistema contra entradas inválidas (ex: CPF incorreto barrado via *Regex* `\\d{11}`).
 * **Interface gráfica nativa:** Utilização da biblioteca `javax.swing.JOptionPane` para criar uma experiência de usuário (UX) fluida através de caixas de diálogo, substituindo o terminal padrão.
-* 
+  
 ## Como executar o projeto na sua máquina:
 
 * Certifique-se de ter o **Microsoft Build of OpenJDK** instalado no seu computador para obter gratuitamente todas as ferramentas da linguagem Java e assim poder executá-las dentro do seu VS Code.
